@@ -89,3 +89,5 @@ Platforms/HoloLens/Config/HoloLensEngine.ini
 
 # python complied files
 *.pyc
+
+Playground_54.sln.DotSettings.user
